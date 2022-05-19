@@ -43,3 +43,13 @@ vignettes/*.pdf
 
 # Models directory
 00_models/h20_models
+
+# Report
+reports/
+
+# Html
+*.html
+
+# Rsconnect
+rsconnect/
+
