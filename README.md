@@ -1,7 +1,7 @@
 # marine-microbiome
 
 An interactive dashboard that builds upon the publication by Larkin et al., 
-“High spatial resolution global ocean metagenomes from Bio-GO-SHIP repeat hydrography transects.”
+[“High spatial resolution global ocean metagenomes from Bio-GO-SHIP repeat hydrography transects.”](https://www.nature.com/articles/s41597-021-00889-9)
 
 This dashboard address the question, **“who is where?”** To achieve this, 
 the raw metagenomic sequence reads deposited at NCBI under the umbrella project PRJNA656268 were analyzed. 
