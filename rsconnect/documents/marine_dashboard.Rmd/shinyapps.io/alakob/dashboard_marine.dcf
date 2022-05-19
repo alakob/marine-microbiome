@@ -1,0 +1,13 @@
+name: dashboard_marine
+title: dashboard_marine
+username:
+account: alakob
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5873734
+bundleId: 5749394
+url: https://alakob.shinyapps.io/dashboard_marine/
+when: 1648728894.18025
+lastSyncTime: 1648728894.18027
+asMultiple: FALSE
+asStatic: FALSE

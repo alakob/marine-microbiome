@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Internal database
+00_data/marine_db.db
+
+# Models directory
+00_models/h20_models
