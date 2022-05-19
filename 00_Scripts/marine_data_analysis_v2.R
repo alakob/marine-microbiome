@@ -1,4 +1,3 @@
-
 ## Libraries
 library(DBI)          # Database Connection
 library(tidyverse)    # Core Libraries - dplyr, ggplot2

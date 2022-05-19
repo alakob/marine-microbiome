@@ -1,6 +1,6 @@
 # marine-microbiome
 
-An interactive dashboard builds upon the publication by Larkin et al., 
+An interactive dashboard that builds upon the publication by Larkin et al., 
 “High spatial resolution global ocean metagenomes from Bio-GO-SHIP repeat hydrography transects.”
 
 This dashboard address the question, **“who is where?”** To achieve this, 
