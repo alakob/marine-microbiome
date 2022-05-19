@@ -45,11 +45,11 @@ vignettes/*.pdf
 00_models/h20_models
 
 # Report
-reports/
+reports/*.html
 
 # Html
-*.html
+/*.html
 
 # Rsconnect
-rsconnect/
+rsconnect/*
 
